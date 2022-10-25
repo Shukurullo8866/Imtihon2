@@ -1,0 +1,1 @@
+const rec = [ { 'image' : 'image_goole', 'res' : 'Arab', 'city' : 'Dubai' } ];
